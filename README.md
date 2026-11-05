@@ -1,9 +1,10 @@
 # 👻 Wraith — Autonomous CLI Coding Agent Specification
 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Specification](https://img.shields.io/badge/Spec-Architecture%20%26%20Prompt-8A2BE2.svg)](WRAITH_BUILD_PROMPT.md)
 [![TypeScript](https://img.shields.io/badge/Target-TypeScript%205.x-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
 [![Runtime](https://img.shields.io/badge/Runtime-Node.js%2020%2B-brightgreen.svg?logo=node.js)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Moiz-Genius/wraith-spec/pulls)
 
 > *"The ghost in your codebase."*
@@ -59,7 +60,6 @@ You can feed [WRAITH_BUILD_PROMPT.md](WRAITH_BUILD_PROMPT.md) directly to an AI 
 ## 📄 Repository Contents
 
 - [`WRAITH_BUILD_PROMPT.md`](WRAITH_BUILD_PROMPT.md) — The comprehensive 17-section build prompt and technical blueprint.
-- [`article.md`](article.md) — Geopolitical research paper and reference notes.
 
 ---
 
